@@ -30,4 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 #npm install -g @angular/cli
 #ng new angular-get-started --style scss
-#
+#ng generate interface Person
